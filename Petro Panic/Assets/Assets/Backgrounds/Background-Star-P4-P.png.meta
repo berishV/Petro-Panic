@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: f6c0e9e0493ca2c4bbacf7c33e0433d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4586699825445161020
+    second: Background-Star-P4-P_0
+  - first:
+      213: 7556965790710900213
+    second: Background-Star-P4-P_1
+  - first:
+      213: 6636850721247783962
+    second: Background-Star-P4-P_2
+  - first:
+      213: 6010472686326808345
+    second: Background-Star-P4-P_3
+  - first:
+      213: -930873427254110021
+    second: Background-Star-P4-P_4
+  - first:
+      213: 6541472235910134162
+    second: Background-Star-P4-P_5
+  - first:
+      213: 6564600459322257796
+    second: Background-Star-P4-P_6
+  - first:
+      213: 5148259866411497737
+    second: Background-Star-P4-P_7
+  - first:
+      213: -8434455934276262331
+    second: Background-Star-P4-P_8
+  - first:
+      213: 5064321993819290516
+    second: Background-Star-P4-P_9
+  - first:
+      213: -9133887921918116485
+    second: Background-Star-P4-P_10
+  - first:
+      213: 2931958426735736565
+    second: Background-Star-P4-P_11
+  - first:
+      213: -6044487834648848932
+    second: Background-Star-P4-P_12
+  - first:
+      213: 1778823698556414018
+    second: Background-Star-P4-P_13
+  - first:
+      213: 6675972086757984567
+    second: Background-Star-P4-P_14
+  - first:
+      213: 4053363420967917972
+    second: Background-Star-P4-P_15
+  - first:
+      213: 3793143509414179252
+    second: Background-Star-P4-P_16
+  - first:
+      213: 9185887754780575217
+    second: Background-Star-P4-P_17
+  - first:
+      213: 3698500447028431796
+    second: Background-Star-P4-P_18
+  - first:
+      213: 7692057636957618297
+    second: Background-Star-P4-P_19
+  - first:
+      213: 2975943071746422558
+    second: Background-Star-P4-P_20
+  - first:
+      213: 1704790183027212104
+    second: Background-Star-P4-P_21
+  - first:
+      213: 8820331943618168652
+    second: Background-Star-P4-P_22
+  - first:
+      213: -2349677570187945186
+    second: Background-Star-P4-P_23
+  - first:
+      213: 8663592495283541377
+    second: Background-Star-P4-P_24
+  - first:
+      213: -5360841104988204116
+    second: Background-Star-P4-P_25
+  - first:
+      213: 5628891819811047842
+    second: Background-Star-P4-P_26
+  - first:
+      213: -706612396845923516
+    second: Background-Star-P4-P_27
+  - first:
+      213: 3123469830243025284
+    second: Background-Star-P4-P_28
+  - first:
+      213: 2795023880108214776
+    second: Background-Star-P4-P_29
+  - first:
+      213: -1874206384940355767
+    second: Background-Star-P4-P_30
+  - first:
+      213: -4887176005580213550
+    second: Background-Star-P4-P_31
+  - first:
+      213: -705175871958321347
+    second: Background-Star-P4-P_32
+  - first:
+      213: -4413375064763950816
+    second: Background-Star-P4-P_33
+  - first:
+      213: 8154714151000031062
+    second: Background-Star-P4-P_34
+  - first:
+      213: 8027421250803975899
+    second: Background-Star-P4-P_35
+  - first:
+      213: -2316903685387517401
+    second: Background-Star-P4-P_36
+  - first:
+      213: 4565215800026126621
+    second: Background-Star-P4-P_37
+  - first:
+      213: -1271261322986908957
+    second: Background-Star-P4-P_38
+  - first:
+      213: -3533329452134427523
+    second: Background-Star-P4-P_39
+  - first:
+      213: -6629271579618812639
+    second: Background-Star-P4-P_40
+  - first:
+      213: -1921720752805473679
+    second: Background-Star-P4-P_41
+  - first:
+      213: -2586058924425200741
+    second: Background-Star-P4-P_42
+  - first:
+      213: -8400715849325559765
+    second: Background-Star-P4-P_43
+  - first:
+      213: 7356264390051560767
+    second: Background-Star-P4-P_44
+  - first:
+      213: -6799490022919833197
+    second: Background-Star-P4-P_45
+  - first:
+      213: 6283987718865711862
+    second: Background-Star-P4-P_46
+  - first:
+      213: 5867526736814058875
+    second: Background-Star-P4-P_47
+  - first:
+      213: -8371791476722903496
+    second: Background-Star-P4-P_48
+  - first:
+      213: -73764103654264924
+    second: Background-Star-P4-P_49
+  - first:
+      213: -666967847965905783
+    second: Background-Star-P4-P_50
+  - first:
+      213: -5815789840499288259
+    second: Background-Star-P4-P_51
+  - first:
+      213: 6306572112561313677
+    second: Background-Star-P4-P_52
+  - first:
+      213: -6663330538528035958
+    second: Background-Star-P4-P_53
+  - first:
+      213: 6329794528277346671
+    second: Background-Star-P4-P_54
+  - first:
+      213: -1722942995979162179
+    second: Background-Star-P4-P_55
+  - first:
+      213: -6193180512599338293
+    second: Background-Star-P4-P_56
+  - first:
+      213: 8523923638691555997
+    second: Background-Star-P4-P_57
+  - first:
+      213: 5505655401182019146
+    second: Background-Star-P4-P_58
+  - first:
+      213: 3842237479822658645
+    second: Background-Star-P4-P_59
+  - first:
+      213: -6778812246998149311
+    second: Background-Star-P4-P_60
+  - first:
+      213: -661062082808620527
+    second: Background-Star-P4-P_61
+  - first:
+      213: -6030005695179090223
+    second: Background-Star-P4-P_62
+  - first:
+      213: 962367203529736898
+    second: Background-Star-P4-P_63
+  - first:
+      213: -3306515740874844697
+    second: Background-Star-P4-P_64
+  - first:
+      213: 5235098239910303287
+    second: Background-Star-P4-P_65
+  - first:
+      213: -1165355432606633812
+    second: Background-Star-P4-P_66
+  - first:
+      213: -4028195394724940992
+    second: Background-Star-P4-P_67
+  - first:
+      213: 5804013536210441020
+    second: Background-Star-P4-P_68
+  - first:
+      213: -3043869614550530962
+    second: Background-Star-P4-P_69
+  - first:
+      213: 4932447430831607031
+    second: Background-Star-P4-P_70
+  - first:
+      213: 2909581418977262916
+    second: Background-Star-P4-P_71
+  - first:
+      213: -1202605653619840860
+    second: Background-Star-P4-P_72
+  - first:
+      213: -7746272981896370910
+    second: Background-Star-P4-P_73
+  - first:
+      213: -6336217069646974549
+    second: Background-Star-P4-P_74
+  - first:
+      213: 6262066033601605435
+    second: Background-Star-P4-P_75
+  - first:
+      213: -6128569391350791583
+    second: Background-Star-P4-P_76
+  - first:
+      213: 6233081607826970985
+    second: Background-Star-P4-P_77
+  - first:
+      213: 8048100919570292533
+    second: Background-Star-P4-P_78
+  - first:
+      213: -5608841072984697068
+    second: Background-Star-P4-P_79
+  - first:
+      213: 6572697788691086611
+    second: Background-Star-P4-P_80
+  - first:
+      213: -8637521190411644553
+    second: Background-Star-P4-P_81
+  - first:
+      213: -7156159606560861698
+    second: Background-Star-P4-P_82
+  - first:
+      213: 7841493915621472651
+    second: Background-Star-P4-P_83
+  - first:
+      213: 1166401047665168500
+    second: Background-Star-P4-P_84
+  - first:
+      213: 7241807579480767445
+    second: Background-Star-P4-P_85
+  - first:
+      213: 7356659630814870758
+    second: Background-Star-P4-P_86
+  - first:
+      213: -8926349893548206977
+    second: Background-Star-P4-P_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background-Star-P4-P_0
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 3579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38410b903b37af30800000000000000
+      internalID: 4586699825445161020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_1
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 3539
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f52a1f195cbfd860800000000000000
+      internalID: 7556965790710900213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_2
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 3539
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ce4434194da1c50800000000000000
+      internalID: 6636850721247783962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_3
+      rect:
+        serializedVersion: 2
+        x: 7319
+        y: 3579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f72b8301d796350800000000000000
+      internalID: 6010472686326808345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_4
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 3479
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb81ba5cc8fd413f0800000000000000
+      internalID: -930873427254110021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_5
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 3479
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f081275af7ca50800000000000000
+      internalID: 6541472235910134162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_6
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f44646552a1b50800000000000000
+      internalID: 6564600459322257796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_7
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 3419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9097bd4621b427740800000000000000
+      internalID: 5148259866411497737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_8
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 3359
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54627c3f30bc2fa80800000000000000
+      internalID: -8434455934276262331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_9
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 3359
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bfbcd7506184640800000000000000
+      internalID: 5064321993819290516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_10
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 3279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7df6d31459ed3180800000000000000
+      internalID: -9133887921918116485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_11
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 3279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6fbc9a7a860b820800000000000000
+      internalID: 2931958426735736565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_12
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 3119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5d596e65aad1ca0800000000000000
+      internalID: -6044487834648848932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_13
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 3119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248608eaab6afa810800000000000000
+      internalID: 1778823698556414018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_14
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 3119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73902a9fd31d5ac50800000000000000
+      internalID: 6675972086757984567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_15
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 3119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499da544e80704830800000000000000
+      internalID: 4053363420967917972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2959
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f5b4cce3f3a430800000000000000
+      internalID: 3793143509414179252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_17
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 2969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f58e4a7e34da7f70800000000000000
+      internalID: 9185887754780575217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_18
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 2969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbc0c2af86b35330800000000000000
+      internalID: 3698500447028431796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_19
+      rect:
+        serializedVersion: 2
+        x: 8439
+        y: 2959
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97080b2aaadafba60800000000000000
+      internalID: 7692057636957618297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_20
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 2729
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17fa3fd47cac4920800000000000000
+      internalID: 2975943071746422558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_21
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 2729
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ff8eb93a1a8a710800000000000000
+      internalID: 1704790183027212104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_22
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2639
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47446cab2d186a70800000000000000
+      internalID: 8820331943618168652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_23
+      rect:
+        serializedVersion: 2
+        x: 6419
+        y: 2639
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b9e34f2b4446fd0800000000000000
+      internalID: -2349677570187945186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_24
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859d1809734b3870800000000000000
+      internalID: 8663592495283541377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_25
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca39ddffa677a95b0800000000000000
+      internalID: -5360841104988204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_26
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2539
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a980f67947dd1e40800000000000000
+      internalID: 5628891819811047842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_27
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 2539
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4438c14d4cb9136f0800000000000000
+      internalID: -706612396845923516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_28
+      rect:
+        serializedVersion: 2
+        x: 7419
+        y: 2579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4810942034bc85b20800000000000000
+      internalID: 3123469830243025284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_29
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 2579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f98598096be9c620800000000000000
+      internalID: 2795023880108214776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_30
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 2489
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f6cdd093b7df5e0800000000000000
+      internalID: -1874206384940355767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_31
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 2489
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23498f0534d2cb0800000000000000
+      internalID: -4887176005580213550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_32
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377fb7d746b636f0800000000000000
+      internalID: -705175871958321347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_33
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 2329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299d2cf2ca80c2c0800000000000000
+      internalID: -4413375064763950816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_34
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2179
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3537905d5b2170800000000000000
+      internalID: 8154714151000031062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_35
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2169
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c794b811276f60800000000000000
+      internalID: 8027421250803975899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_36
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2199
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7220fa5af54b8dfd0800000000000000
+      internalID: -2316903685387517401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_37
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 2199
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19de832597ea5f30800000000000000
+      internalID: 4565215800026126621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_38
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 2169
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e21caaef829b5ee0800000000000000
+      internalID: -1271261322986908957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_39
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 2179
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d741a1b659717fec0800000000000000
+      internalID: -3533329452134427523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2079
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5a392f981004a0800000000000000
+      internalID: -6629271579618812639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_41
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2079
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729883382da455e0800000000000000
+      internalID: -1921720752805473679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_42
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 2079
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b38691c197c1cd0800000000000000
+      internalID: -2586058924425200741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_43
+      rect:
+        serializedVersion: 2
+        x: 8439
+        y: 2079
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c4f5a179aa6b80800000000000000
+      internalID: -8400715849325559765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1619
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df0e2dc73b61660800000000000000
+      internalID: 7356264390051560767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_45
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1619
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399fc0279db53a1a0800000000000000
+      internalID: -6799490022919833197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_46
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 1619
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f278eb4985353750800000000000000
+      internalID: 6283987718865711862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_47
+      rect:
+        serializedVersion: 2
+        x: 8439
+        y: 1619
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da8e9ca74ad6150800000000000000
+      internalID: 5867526736814058875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_48
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d940f10c61db80800000000000000
+      internalID: -8371791476722903496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_49
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1529
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af238440ffe9fef0800000000000000
+      internalID: -73764103654264924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_50
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 1499
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca269a6447eb6f0800000000000000
+      internalID: -666967847965905783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_51
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 1499
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d6b414f92a4fa0800000000000000
+      internalID: -5815789840499288259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_52
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 1529
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871a973ce1758750800000000000000
+      internalID: 6306572112561313677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_53
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 1519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2606dd281783a0800000000000000
+      internalID: -6663330538528035958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_54
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1369
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69be273692f7d750800000000000000
+      internalID: 6329794528277346671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_55
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 1369
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd2a644970e618e0800000000000000
+      internalID: -1722942995979162179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_56
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc215acf2276d0aa0800000000000000
+      internalID: -6193180512599338293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_57
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 1209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae3c0436f0b4670800000000000000
+      internalID: 8523923638691555997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_58
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e3a2bca64086c40800000000000000
+      internalID: 5505655401182019146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_59
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c858f71ae525530800000000000000
+      internalID: 3842237479822658645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_60
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1479b925d22dce1a0800000000000000
+      internalID: -6778812246998149311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_61
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 1159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a56b3c98f63d6f0800000000000000
+      internalID: -661062082808620527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_62
+      rect:
+        serializedVersion: 2
+        x: 7419
+        y: 1119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d69441c4cd115ca0800000000000000
+      internalID: -6030005695179090223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_63
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 1119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c240ed6fd30b5d00800000000000000
+      internalID: 962367203529736898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_64
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1059
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5daecc375ec12d0800000000000000
+      internalID: -3306515740874844697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_65
+      rect:
+        serializedVersion: 2
+        x: 6419
+        y: 1059
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736502acc1ec6a840800000000000000
+      internalID: 5235098239910303287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_66
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0f86a8863d3dfe0800000000000000
+      internalID: -1165355432606633812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_67
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433e8b71a9f818c0800000000000000
+      internalID: -4028195394724940992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 739
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33d1696f8ffb8050800000000000000
+      internalID: 5804013536210441020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_69
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 729
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644c1276b002c5d0800000000000000
+      internalID: -3043869614550530962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_70
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 729
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc810c1ec2937440800000000000000
+      internalID: 4932447430831607031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_71
+      rect:
+        serializedVersion: 2
+        x: 8439
+        y: 739
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d773b82e8e06820800000000000000
+      internalID: 2909581418977262916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_72
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8ec1b978c7f4fe0800000000000000
+      internalID: -1202605653619840860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_73
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2256cd4b3c5bf7490800000000000000
+      internalID: -7746272981896370910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_74
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1fce7552c3118a0800000000000000
+      internalID: -6336217069646974549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_75
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fecd431e357e650800000000000000
+      internalID: 6262066033601605435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_76
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162443feb92f2faa0800000000000000
+      internalID: -6128569391350791583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_77
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9691c82b2ba508650800000000000000
+      internalID: 6233081607826970985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_78
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 339
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5b7b452990bf60800000000000000
+      internalID: 8048100919570292533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_79
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 339
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4175023d2c46922b0800000000000000
+      internalID: -5608841072984697068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_80
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d7deea0d9e63b50800000000000000
+      internalID: 6572697788691086611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_81
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771da99ad3c512880800000000000000
+      internalID: -8637521190411644553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_82
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d0f6b0c630bc90800000000000000
+      internalID: -7156159606560861698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_83
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8931059b2592dc60800000000000000
+      internalID: 7841493915621472651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_84
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470d9bfa293ef2010800000000000000
+      internalID: 1166401047665168500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_85
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbea2ff91108460800000000000000
+      internalID: 7241807579480767445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_86
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3d2cf4fa181660800000000000000
+      internalID: 7356659630814870758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P4-P_87
+      rect:
+        serializedVersion: 2
+        x: 7319
+        y: 119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74963ec01c3f1480800000000000000
+      internalID: -8926349893548206977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background-Star-P4-P_0: 4586699825445161020
+      Background-Star-P4-P_1: 7556965790710900213
+      Background-Star-P4-P_10: -9133887921918116485
+      Background-Star-P4-P_11: 2931958426735736565
+      Background-Star-P4-P_12: -6044487834648848932
+      Background-Star-P4-P_13: 1778823698556414018
+      Background-Star-P4-P_14: 6675972086757984567
+      Background-Star-P4-P_15: 4053363420967917972
+      Background-Star-P4-P_16: 3793143509414179252
+      Background-Star-P4-P_17: 9185887754780575217
+      Background-Star-P4-P_18: 3698500447028431796
+      Background-Star-P4-P_19: 7692057636957618297
+      Background-Star-P4-P_2: 6636850721247783962
+      Background-Star-P4-P_20: 2975943071746422558
+      Background-Star-P4-P_21: 1704790183027212104
+      Background-Star-P4-P_22: 8820331943618168652
+      Background-Star-P4-P_23: -2349677570187945186
+      Background-Star-P4-P_24: 8663592495283541377
+      Background-Star-P4-P_25: -5360841104988204116
+      Background-Star-P4-P_26: 5628891819811047842
+      Background-Star-P4-P_27: -706612396845923516
+      Background-Star-P4-P_28: 3123469830243025284
+      Background-Star-P4-P_29: 2795023880108214776
+      Background-Star-P4-P_3: 6010472686326808345
+      Background-Star-P4-P_30: -1874206384940355767
+      Background-Star-P4-P_31: -4887176005580213550
+      Background-Star-P4-P_32: -705175871958321347
+      Background-Star-P4-P_33: -4413375064763950816
+      Background-Star-P4-P_34: 8154714151000031062
+      Background-Star-P4-P_35: 8027421250803975899
+      Background-Star-P4-P_36: -2316903685387517401
+      Background-Star-P4-P_37: 4565215800026126621
+      Background-Star-P4-P_38: -1271261322986908957
+      Background-Star-P4-P_39: -3533329452134427523
+      Background-Star-P4-P_4: -930873427254110021
+      Background-Star-P4-P_40: -6629271579618812639
+      Background-Star-P4-P_41: -1921720752805473679
+      Background-Star-P4-P_42: -2586058924425200741
+      Background-Star-P4-P_43: -8400715849325559765
+      Background-Star-P4-P_44: 7356264390051560767
+      Background-Star-P4-P_45: -6799490022919833197
+      Background-Star-P4-P_46: 6283987718865711862
+      Background-Star-P4-P_47: 5867526736814058875
+      Background-Star-P4-P_48: -8371791476722903496
+      Background-Star-P4-P_49: -73764103654264924
+      Background-Star-P4-P_5: 6541472235910134162
+      Background-Star-P4-P_50: -666967847965905783
+      Background-Star-P4-P_51: -5815789840499288259
+      Background-Star-P4-P_52: 6306572112561313677
+      Background-Star-P4-P_53: -6663330538528035958
+      Background-Star-P4-P_54: 6329794528277346671
+      Background-Star-P4-P_55: -1722942995979162179
+      Background-Star-P4-P_56: -6193180512599338293
+      Background-Star-P4-P_57: 8523923638691555997
+      Background-Star-P4-P_58: 5505655401182019146
+      Background-Star-P4-P_59: 3842237479822658645
+      Background-Star-P4-P_6: 6564600459322257796
+      Background-Star-P4-P_60: -6778812246998149311
+      Background-Star-P4-P_61: -661062082808620527
+      Background-Star-P4-P_62: -6030005695179090223
+      Background-Star-P4-P_63: 962367203529736898
+      Background-Star-P4-P_64: -3306515740874844697
+      Background-Star-P4-P_65: 5235098239910303287
+      Background-Star-P4-P_66: -1165355432606633812
+      Background-Star-P4-P_67: -4028195394724940992
+      Background-Star-P4-P_68: 5804013536210441020
+      Background-Star-P4-P_69: -3043869614550530962
+      Background-Star-P4-P_7: 5148259866411497737
+      Background-Star-P4-P_70: 4932447430831607031
+      Background-Star-P4-P_71: 2909581418977262916
+      Background-Star-P4-P_72: -1202605653619840860
+      Background-Star-P4-P_73: -7746272981896370910
+      Background-Star-P4-P_74: -6336217069646974549
+      Background-Star-P4-P_75: 6262066033601605435
+      Background-Star-P4-P_76: -6128569391350791583
+      Background-Star-P4-P_77: 6233081607826970985
+      Background-Star-P4-P_78: 8048100919570292533
+      Background-Star-P4-P_79: -5608841072984697068
+      Background-Star-P4-P_8: -8434455934276262331
+      Background-Star-P4-P_80: 6572697788691086611
+      Background-Star-P4-P_81: -8637521190411644553
+      Background-Star-P4-P_82: -7156159606560861698
+      Background-Star-P4-P_83: 7841493915621472651
+      Background-Star-P4-P_84: 1166401047665168500
+      Background-Star-P4-P_85: 7241807579480767445
+      Background-Star-P4-P_86: 7356659630814870758
+      Background-Star-P4-P_87: -8926349893548206977
+      Background-Star-P4-P_9: 5064321993819290516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

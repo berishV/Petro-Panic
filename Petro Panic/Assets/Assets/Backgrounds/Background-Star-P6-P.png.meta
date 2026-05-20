@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 8e57850ea2a6eba4885ca0124cb25842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3637375462610572599
+    second: Background-Star-P6-P_0
+  - first:
+      213: 7532496331839401549
+    second: Background-Star-P6-P_1
+  - first:
+      213: -3202327269692380857
+    second: Background-Star-P6-P_2
+  - first:
+      213: 8651103699573026139
+    second: Background-Star-P6-P_3
+  - first:
+      213: 2532669875398991918
+    second: Background-Star-P6-P_4
+  - first:
+      213: -5653421864497286184
+    second: Background-Star-P6-P_5
+  - first:
+      213: 5422270746387797614
+    second: Background-Star-P6-P_6
+  - first:
+      213: -7743598650187646011
+    second: Background-Star-P6-P_7
+  - first:
+      213: -9016586283823754253
+    second: Background-Star-P6-P_8
+  - first:
+      213: -7251295428647362066
+    second: Background-Star-P6-P_9
+  - first:
+      213: 7084372360593456041
+    second: Background-Star-P6-P_10
+  - first:
+      213: 984293774312309282
+    second: Background-Star-P6-P_11
+  - first:
+      213: 8123707263897140253
+    second: Background-Star-P6-P_12
+  - first:
+      213: -2474393936449373725
+    second: Background-Star-P6-P_13
+  - first:
+      213: -8506075279464429925
+    second: Background-Star-P6-P_14
+  - first:
+      213: -8549186848850572222
+    second: Background-Star-P6-P_15
+  - first:
+      213: -6520792461943342117
+    second: Background-Star-P6-P_16
+  - first:
+      213: -6337412758616948521
+    second: Background-Star-P6-P_17
+  - first:
+      213: -4461146115867572018
+    second: Background-Star-P6-P_18
+  - first:
+      213: 3078160676297869498
+    second: Background-Star-P6-P_19
+  - first:
+      213: 4463374274497541485
+    second: Background-Star-P6-P_20
+  - first:
+      213: -3324357893974283290
+    second: Background-Star-P6-P_21
+  - first:
+      213: 9139227324378146501
+    second: Background-Star-P6-P_22
+  - first:
+      213: 6473539764141454119
+    second: Background-Star-P6-P_23
+  - first:
+      213: 9086057417163598456
+    second: Background-Star-P6-P_24
+  - first:
+      213: -7326802025890528722
+    second: Background-Star-P6-P_25
+  - first:
+      213: -1921195727162821705
+    second: Background-Star-P6-P_26
+  - first:
+      213: 2472963113242662866
+    second: Background-Star-P6-P_27
+  - first:
+      213: -1273437062194114541
+    second: Background-Star-P6-P_28
+  - first:
+      213: -186441153927167965
+    second: Background-Star-P6-P_29
+  - first:
+      213: -8334839417205286470
+    second: Background-Star-P6-P_30
+  - first:
+      213: -6567035532138832888
+    second: Background-Star-P6-P_31
+  - first:
+      213: 6726729590195098447
+    second: Background-Star-P6-P_32
+  - first:
+      213: -2300662090964261591
+    second: Background-Star-P6-P_33
+  - first:
+      213: 9158760322823276812
+    second: Background-Star-P6-P_34
+  - first:
+      213: -2625068899541957480
+    second: Background-Star-P6-P_35
+  - first:
+      213: 7093649355990123680
+    second: Background-Star-P6-P_36
+  - first:
+      213: -5978963188991019110
+    second: Background-Star-P6-P_37
+  - first:
+      213: -7071849183345509023
+    second: Background-Star-P6-P_38
+  - first:
+      213: 8194234327792136752
+    second: Background-Star-P6-P_39
+  - first:
+      213: 1778016772563589574
+    second: Background-Star-P6-P_40
+  - first:
+      213: -1706801601838536303
+    second: Background-Star-P6-P_41
+  - first:
+      213: -4937671474853617991
+    second: Background-Star-P6-P_42
+  - first:
+      213: -7572104114231438562
+    second: Background-Star-P6-P_43
+  - first:
+      213: -3590895535824262712
+    second: Background-Star-P6-P_44
+  - first:
+      213: 4111967041860556238
+    second: Background-Star-P6-P_45
+  - first:
+      213: -5518475375849691559
+    second: Background-Star-P6-P_46
+  - first:
+      213: -227574572087975684
+    second: Background-Star-P6-P_47
+  - first:
+      213: -8326310106803299365
+    second: Background-Star-P6-P_48
+  - first:
+      213: 6708312212988766526
+    second: Background-Star-P6-P_49
+  - first:
+      213: -7657567318892694661
+    second: Background-Star-P6-P_50
+  - first:
+      213: -2459732516571359794
+    second: Background-Star-P6-P_51
+  - first:
+      213: -5822059332383219116
+    second: Background-Star-P6-P_52
+  - first:
+      213: -7680289339615899699
+    second: Background-Star-P6-P_53
+  - first:
+      213: -951669567269410047
+    second: Background-Star-P6-P_54
+  - first:
+      213: 3679026530983298964
+    second: Background-Star-P6-P_55
+  - first:
+      213: -8596109261372210060
+    second: Background-Star-P6-P_56
+  - first:
+      213: 2515202047591501631
+    second: Background-Star-P6-P_57
+  - first:
+      213: 1097810986442105169
+    second: Background-Star-P6-P_58
+  - first:
+      213: -999642068348174190
+    second: Background-Star-P6-P_59
+  - first:
+      213: -7270526130816862186
+    second: Background-Star-P6-P_60
+  - first:
+      213: -7939917597998659367
+    second: Background-Star-P6-P_61
+  - first:
+      213: 4888313085947520946
+    second: Background-Star-P6-P_62
+  - first:
+      213: -4949399326167578766
+    second: Background-Star-P6-P_63
+  - first:
+      213: 8786291399774988164
+    second: Background-Star-P6-P_64
+  - first:
+      213: -5951815686308089081
+    second: Background-Star-P6-P_65
+  - first:
+      213: -7532915679279105781
+    second: Background-Star-P6-P_66
+  - first:
+      213: 6797793579209814678
+    second: Background-Star-P6-P_67
+  - first:
+      213: -1546813522258648322
+    second: Background-Star-P6-P_68
+  - first:
+      213: -9192484564870681099
+    second: Background-Star-P6-P_69
+  - first:
+      213: -5009019699889802626
+    second: Background-Star-P6-P_70
+  - first:
+      213: -6836346129690289522
+    second: Background-Star-P6-P_71
+  - first:
+      213: -6639622364371993706
+    second: Background-Star-P6-P_72
+  - first:
+      213: 536326301225518384
+    second: Background-Star-P6-P_73
+  - first:
+      213: -5376584195668032071
+    second: Background-Star-P6-P_74
+  - first:
+      213: 7603275789731115145
+    second: Background-Star-P6-P_75
+  - first:
+      213: 2404690645970501003
+    second: Background-Star-P6-P_76
+  - first:
+      213: 6957889801176765836
+    second: Background-Star-P6-P_77
+  - first:
+      213: -7925293043573981931
+    second: Background-Star-P6-P_78
+  - first:
+      213: -3177326474238680457
+    second: Background-Star-P6-P_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background-Star-P6-P_0
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caef54d942758dc0800000000000000
+      internalID: -3637375462610572599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_1
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3559
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e6833418dc88860800000000000000
+      internalID: 7532496331839401549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_2
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 3539
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749607b905c0f83d0800000000000000
+      internalID: -3202327269692380857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_3
+      rect:
+        serializedVersion: 2
+        x: 7559
+        y: 3519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d2e10baf4ee0870800000000000000
+      internalID: 8651103699573026139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_4
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 3489
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206d7045d9d52320800000000000000
+      internalID: 2532669875398991918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3439
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3763174c20b81b0800000000000000
+      internalID: -5653421864497286184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_6
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 3409
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66df62f386cf3b40800000000000000
+      internalID: 5422270746387797614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_7
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 3389
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfe541e06398490800000000000000
+      internalID: -7743598650187646011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_8
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 3329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3960afb86aed280800000000000000
+      internalID: -9016586283823754253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_9
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 3319
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee16f060a393e5b90800000000000000
+      internalID: -7251295428647362066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_10
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 3339
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abb4c9902fb05260800000000000000
+      internalID: 7084372360593456041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_11
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 3219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222838409f9e8ad00800000000000000
+      internalID: 984293774312309282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_12
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3179
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c79db17b43db070800000000000000
+      internalID: 8123707263897140253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3139
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9fd8f13df29add0800000000000000
+      internalID: -2474393936449373725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_14
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 3139
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968ac6b99954f980800000000000000
+      internalID: -8506075279464429925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_15
+      rect:
+        serializedVersion: 2
+        x: 7439
+        y: 3139
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c02d34bdf2b5980800000000000000
+      internalID: -8549186848850572222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_16
+      rect:
+        serializedVersion: 2
+        x: 6499
+        y: 3079
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb72d3fdcd7185a0800000000000000
+      internalID: -6520792461943342117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_17
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2919
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0cb9f4cacfc08a0800000000000000
+      internalID: -6337412758616948521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_18
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 2919
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec889986e33d612c0800000000000000
+      internalID: -4461146115867572018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_19
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 2939
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab88f4883d2d7ba20800000000000000
+      internalID: 3078160676297869498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_20
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 2859
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65fa03314711fd30800000000000000
+      internalID: 4463374274497541485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2759
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba56fcb128dd1d0800000000000000
+      internalID: -3324357893974283290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2619
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c66a1f64de05de70800000000000000
+      internalID: 9139227324378146501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_23
+      rect:
+        serializedVersion: 2
+        x: 7179
+        y: 2639
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72374010e12a6d950800000000000000
+      internalID: 6473539764141454119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_24
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2479
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae6d6b419281e70800000000000000
+      internalID: 9086057417163598456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_25
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 2509
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22ce236068f15a90800000000000000
+      internalID: -7326802025890528722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_26
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 2469
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b336724aaa8655e0800000000000000
+      internalID: -1921195727162821705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_27
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2379
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7197369dab15220800000000000000
+      internalID: 2472963113242662866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_28
+      rect:
+        serializedVersion: 2
+        x: 6499
+        y: 2419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3105a182db7d35ee0800000000000000
+      internalID: -1273437062194114541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_29
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2319
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32048a022c0a96df0800000000000000
+      internalID: -186441153927167965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_30
+      rect:
+        serializedVersion: 2
+        x: 5629
+        y: 2309
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab91e8db5b3b45c80800000000000000
+      internalID: -8334839417205286470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_31
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 2279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1f772af33dd4a0800000000000000
+      internalID: -6567035532138832888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_32
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 2249
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4310bb2ce42a5d50800000000000000
+      internalID: 6726729590195098447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_33
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 2209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252ed784086210e0800000000000000
+      internalID: -2300662090964261591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_34
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 2039
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c2d80df37a1f70800000000000000
+      internalID: 9158760322823276812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_35
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 2059
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89440eb7eb1e19bd0800000000000000
+      internalID: -2625068899541957480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_36
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1959
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a448f86184b17260800000000000000
+      internalID: 7093649355990123680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_37
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 1959
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97bd0358a4760da0800000000000000
+      internalID: -5978963188991019110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_38
+      rect:
+        serializedVersion: 2
+        x: 7719
+        y: 1919
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dfd81d2aebbdd90800000000000000
+      internalID: -7071849183345509023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_39
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 1859
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032bc5ac4b4c7b170800000000000000
+      internalID: 8194234327792136752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_40
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 1839
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9d65595d8cca810800000000000000
+      internalID: 1778016772563589574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1779
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199a8547cf83058e0800000000000000
+      internalID: -1706801601838536303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_42
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1739
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be55cb54fdd97bb0800000000000000
+      internalID: -4937671474853617991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_43
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 1739
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1316f44d6b7ae690800000000000000
+      internalID: -7572104114231438562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_44
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1639
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9a8a919839a2ec0800000000000000
+      internalID: -3590895535824262712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_45
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 1659
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5563a0d34a01930800000000000000
+      internalID: 4111967041860556238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_46
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 1489
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9562db042ef6a63b0800000000000000
+      internalID: -5518475375849691559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_47
+      rect:
+        serializedVersion: 2
+        x: 5349
+        y: 1449
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0e8c6e12e77dcf0800000000000000
+      internalID: -227574572087975684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9e329211037c80800000000000000
+      internalID: -8326310106803299365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_49
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1389
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e392c916a66b81d50800000000000000
+      internalID: 6708312212988766526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_50
+      rect:
+        serializedVersion: 2
+        x: 7439
+        y: 1379
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73b2c1581bdab590800000000000000
+      internalID: -7657567318892694661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_51
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1279
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55943fe464dddd0800000000000000
+      internalID: -2459732516571359794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_52
+      rect:
+        serializedVersion: 2
+        x: 6619
+        y: 1319
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ec0042e3e33fa0800000000000000
+      internalID: -5822059332383219116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_53
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1229
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf89fb99812a6590800000000000000
+      internalID: -7680289339615899699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_54
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 1189
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6b5b129dfac2f0800000000000000
+      internalID: -951669567269410047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_55
+      rect:
+        serializedVersion: 2
+        x: 5879
+        y: 1219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974f7a33278e0330800000000000000
+      internalID: 3679026530983298964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_56
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1059
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474c671cb2c74b880800000000000000
+      internalID: -8596109261372210060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_57
+      rect:
+        serializedVersion: 2
+        x: 8259
+        y: 1079
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc609afeac7e220800000000000000
+      internalID: 2515202047591501631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_58
+      rect:
+        serializedVersion: 2
+        x: 7879
+        y: 939
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151276596453c3f00800000000000000
+      internalID: 1097810986442105169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_59
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 839
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290029dc5de8022f0800000000000000
+      internalID: -999642068348174190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 759
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61837724107e91b90800000000000000
+      internalID: -7270526130816862186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_61
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 779
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ca69130fbfc190800000000000000
+      internalID: -7939917597998659367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_62
+      rect:
+        serializedVersion: 2
+        x: 7159
+        y: 779
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7abce2ad6c6d340800000000000000
+      internalID: 4888313085947520946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_63
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 619
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27749303983305bb0800000000000000
+      internalID: -4949399326167578766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_64
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 559
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48768a0f97d2fe970800000000000000
+      internalID: 8786291399774988164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_65
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 559
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7033209da27e66da0800000000000000
+      internalID: -5951815686308089081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_66
+      rect:
+        serializedVersion: 2
+        x: 5979
+        y: 519
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09399dc915b57790800000000000000
+      internalID: -7532915679279105781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_67
+      rect:
+        serializedVersion: 2
+        x: 8399
+        y: 559
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6927b397e3d965e50800000000000000
+      internalID: 6797793579209814678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_68
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 479
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a0000c4d988ae0800000000000000
+      internalID: -1546813522258648322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 359
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2f9bfdfbbd6080800000000000000
+      internalID: -9192484564870681099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_70
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 379
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7272233f136c7ab0800000000000000
+      internalID: -5009019699889802626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_71
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 369
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a91326a6b6021a0800000000000000
+      internalID: -6836346129690289522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_72
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 289
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3ed843a25bd3a0800000000000000
+      internalID: -6639622364371993706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_73
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 309
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0350f3cede9617700800000000000000
+      internalID: 536326301225518384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_74
+      rect:
+        serializedVersion: 2
+        x: 8179
+        y: 259
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54a3019298265b0800000000000000
+      internalID: -5376584195668032071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_75
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 179
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98030400c03448960800000000000000
+      internalID: 7603275789731115145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_76
+      rect:
+        serializedVersion: 2
+        x: 5669
+        y: 209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db6c3e66d2f5120800000000000000
+      internalID: 2404690645970501003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_77
+      rect:
+        serializedVersion: 2
+        x: 7759
+        y: 179
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855471e8e36f8060800000000000000
+      internalID: 6957889801176765836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_78
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 159
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df5e487f3b30290800000000000000
+      internalID: -7925293043573981931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Star-P6-P_79
+      rect:
+        serializedVersion: 2
+        x: 7139
+        y: 139
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7722f87e76ed7e3d0800000000000000
+      internalID: -3177326474238680457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background-Star-P6-P_0: -3637375462610572599
+      Background-Star-P6-P_1: 7532496331839401549
+      Background-Star-P6-P_10: 7084372360593456041
+      Background-Star-P6-P_11: 984293774312309282
+      Background-Star-P6-P_12: 8123707263897140253
+      Background-Star-P6-P_13: -2474393936449373725
+      Background-Star-P6-P_14: -8506075279464429925
+      Background-Star-P6-P_15: -8549186848850572222
+      Background-Star-P6-P_16: -6520792461943342117
+      Background-Star-P6-P_17: -6337412758616948521
+      Background-Star-P6-P_18: -4461146115867572018
+      Background-Star-P6-P_19: 3078160676297869498
+      Background-Star-P6-P_2: -3202327269692380857
+      Background-Star-P6-P_20: 4463374274497541485
+      Background-Star-P6-P_21: -3324357893974283290
+      Background-Star-P6-P_22: 9139227324378146501
+      Background-Star-P6-P_23: 6473539764141454119
+      Background-Star-P6-P_24: 9086057417163598456
+      Background-Star-P6-P_25: -7326802025890528722
+      Background-Star-P6-P_26: -1921195727162821705
+      Background-Star-P6-P_27: 2472963113242662866
+      Background-Star-P6-P_28: -1273437062194114541
+      Background-Star-P6-P_29: -186441153927167965
+      Background-Star-P6-P_3: 8651103699573026139
+      Background-Star-P6-P_30: -8334839417205286470
+      Background-Star-P6-P_31: -6567035532138832888
+      Background-Star-P6-P_32: 6726729590195098447
+      Background-Star-P6-P_33: -2300662090964261591
+      Background-Star-P6-P_34: 9158760322823276812
+      Background-Star-P6-P_35: -2625068899541957480
+      Background-Star-P6-P_36: 7093649355990123680
+      Background-Star-P6-P_37: -5978963188991019110
+      Background-Star-P6-P_38: -7071849183345509023
+      Background-Star-P6-P_39: 8194234327792136752
+      Background-Star-P6-P_4: 2532669875398991918
+      Background-Star-P6-P_40: 1778016772563589574
+      Background-Star-P6-P_41: -1706801601838536303
+      Background-Star-P6-P_42: -4937671474853617991
+      Background-Star-P6-P_43: -7572104114231438562
+      Background-Star-P6-P_44: -3590895535824262712
+      Background-Star-P6-P_45: 4111967041860556238
+      Background-Star-P6-P_46: -5518475375849691559
+      Background-Star-P6-P_47: -227574572087975684
+      Background-Star-P6-P_48: -8326310106803299365
+      Background-Star-P6-P_49: 6708312212988766526
+      Background-Star-P6-P_5: -5653421864497286184
+      Background-Star-P6-P_50: -7657567318892694661
+      Background-Star-P6-P_51: -2459732516571359794
+      Background-Star-P6-P_52: -5822059332383219116
+      Background-Star-P6-P_53: -7680289339615899699
+      Background-Star-P6-P_54: -951669567269410047
+      Background-Star-P6-P_55: 3679026530983298964
+      Background-Star-P6-P_56: -8596109261372210060
+      Background-Star-P6-P_57: 2515202047591501631
+      Background-Star-P6-P_58: 1097810986442105169
+      Background-Star-P6-P_59: -999642068348174190
+      Background-Star-P6-P_6: 5422270746387797614
+      Background-Star-P6-P_60: -7270526130816862186
+      Background-Star-P6-P_61: -7939917597998659367
+      Background-Star-P6-P_62: 4888313085947520946
+      Background-Star-P6-P_63: -4949399326167578766
+      Background-Star-P6-P_64: 8786291399774988164
+      Background-Star-P6-P_65: -5951815686308089081
+      Background-Star-P6-P_66: -7532915679279105781
+      Background-Star-P6-P_67: 6797793579209814678
+      Background-Star-P6-P_68: -1546813522258648322
+      Background-Star-P6-P_69: -9192484564870681099
+      Background-Star-P6-P_7: -7743598650187646011
+      Background-Star-P6-P_70: -5009019699889802626
+      Background-Star-P6-P_71: -6836346129690289522
+      Background-Star-P6-P_72: -6639622364371993706
+      Background-Star-P6-P_73: 536326301225518384
+      Background-Star-P6-P_74: -5376584195668032071
+      Background-Star-P6-P_75: 7603275789731115145
+      Background-Star-P6-P_76: 2404690645970501003
+      Background-Star-P6-P_77: 6957889801176765836
+      Background-Star-P6-P_78: -7925293043573981931
+      Background-Star-P6-P_79: -3177326474238680457
+      Background-Star-P6-P_8: -9016586283823754253
+      Background-Star-P6-P_9: -7251295428647362066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

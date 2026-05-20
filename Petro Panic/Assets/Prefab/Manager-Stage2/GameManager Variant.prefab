@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4640287523014604305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: musicaNivel
+      value: 
+      objectReference: {fileID: 8300000, guid: 10d8dda41ec72984f8bca65ec5fda6ec, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[0].nombreEtapa
+      value: Fase 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[1].nombreEtapa
+      value: Fase 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[2].nombreEtapa
+      value: 'Fase3 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[3].nombreEtapa
+      value: Fase 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[5].nombreEtapa
+      value: Pass
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[1].tiempoDeActivacion
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[2].tiempoDeActivacion
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[3].tiempoDeActivacion
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[4].tiempoDeActivacion
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[5].tiempoDeActivacion
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[1].prefabsSpawns.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[2].prefabsSpawns.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[3].prefabsSpawns.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[4].prefabsSpawns.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: etapas.Array.data[5].prefabsSpawns.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[1].prefabsSpawns.Array.data[1]'
+      value: 
+      objectReference: {fileID: 4894002965055200079, guid: 5274c1b8c961ecd4dabd7b76585e2a8a, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[2].prefabsSpawns.Array.data[0]'
+      value: 
+      objectReference: {fileID: 4894002965055200079, guid: 5274c1b8c961ecd4dabd7b76585e2a8a, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[2].prefabsSpawns.Array.data[1]'
+      value: 
+      objectReference: {fileID: 4894002965055200079, guid: 5274c1b8c961ecd4dabd7b76585e2a8a, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[4].prefabsSpawns.Array.data[0]'
+      value: 
+      objectReference: {fileID: 5860322742634961683, guid: e1ef84d974db29a4cbd0e2268b89b2d4, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[4].prefabsSpawns.Array.data[1]'
+      value: 
+      objectReference: {fileID: 5860322742634961683, guid: e1ef84d974db29a4cbd0e2268b89b2d4, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[4].prefabsSpawns.Array.data[2]'
+      value: 
+      objectReference: {fileID: 3515146623384654641, guid: 283dcfc655b17e741b620c444e4e0378, type: 3}
+    - target: {fileID: 1880543840121802848, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: 'etapas.Array.data[5].prefabsSpawns.Array.data[0]'
+      value: 
+      objectReference: {fileID: 5860322742634961683, guid: e1ef84d974db29a4cbd0e2268b89b2d4, type: 3}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3036613797596562844, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5047172672146492918, guid: e61b744404af2f84eacd648b807d19af, type: 3}
+      propertyPath: m_Name
+      value: GameManager Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e61b744404af2f84eacd648b807d19af, type: 3}

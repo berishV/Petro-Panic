@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5047172672146492918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3036613797596562844}
+  - component: {fileID: 1880543840121802848}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3036613797596562844
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5047172672146492918}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.3, y: 7.4, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1880543840121802848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5047172672146492918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db6f765cfe7c8f44adb3b825845a4ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StageManager
+  musicaNivel: {fileID: 8300000, guid: ac641a53cf856b746903e83ea03e000c, type: 3}
+  volumenMusica: 0.6
+  etapas:
+  - nombreEtapa: Inicio
+    tiempoDeActivacion: 0
+    prefabsSpawns:
+    - {fileID: 5125054839609954194, guid: 3d3b3701e1c95434cba141d6dba0aabc, type: 3}
+  - nombreEtapa: Intro
+    tiempoDeActivacion: 30
+    prefabsSpawns:
+    - {fileID: 5125054839609954194, guid: 3d3b3701e1c95434cba141d6dba0aabc, type: 3}
+    - {fileID: 5125054839609954194, guid: 3d3b3701e1c95434cba141d6dba0aabc, type: 3}
+  - nombreEtapa: Desarrollo
+    tiempoDeActivacion: 60
+    prefabsSpawns:
+    - {fileID: 590949631450121206, guid: 78c9afdccf4aa514c905bdb50f738eff, type: 3}
+    - {fileID: 590949631450121206, guid: 78c9afdccf4aa514c905bdb50f738eff, type: 3}
+    - {fileID: 590949631450121206, guid: 78c9afdccf4aa514c905bdb50f738eff, type: 3}
+  - nombreEtapa: "Cl\xEDmax"
+    tiempoDeActivacion: 90
+    prefabsSpawns:
+    - {fileID: 590949631450121206, guid: 78c9afdccf4aa514c905bdb50f738eff, type: 3}
+    - {fileID: 590949631450121206, guid: 78c9afdccf4aa514c905bdb50f738eff, type: 3}
